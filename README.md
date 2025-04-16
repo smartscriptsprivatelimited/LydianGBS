@@ -42,21 +42,17 @@ The goal was to build a business website that:
 
 ### 🚧 Challenges
 
-### 1. Clarity of Complex Services
+1. **Clarity of Complex Services**
+	Explaining services like supply chain revamps and ERP optimization without jargon or technical overload.
 
-Explaining services like supply chain revamps and ERP optimization without jargon or technical overload.
+2. **User Experience Optimization**
+	Creating a navigable, engaging site that encourages conversions through clear calls-to-action.
 
-### 2. User Experience Optimization
+3. **E-Commerce Integration**
+	Developing a seamless shopping experience for both physical services and digital products.
 
-Creating a navigable, engaging site that encourages conversions through clear calls-to-action.
-
-### 3. E-Commerce Integration
-
-Developing a seamless shopping experience for both physical services and digital products.
-
-### 4. Scalability & Performance
-
-Ensuring fast load times and responsiveness across devices, with room for future growth.
+4. **Scalability & Performance**
+	Ensuring fast load times and responsiveness across devices, with room for future growth.
 
 ---
 
